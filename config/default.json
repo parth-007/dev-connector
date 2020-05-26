@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://parth123:parth123@mycluster-xbsoq.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://parth123:parth123@mycluster-xbsoq.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
