@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://parth123:parth123@mycluster-xbsoq.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "947b1c2ab96528b81bfe",
+    "githubSecret": "82fd7fbf02905eedfe9ea07e6f93631df87aac7b"
 }
