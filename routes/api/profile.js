@@ -7,6 +7,7 @@ const User = require('../../models/User');
 const Post = require('../../models/Post');
 const fetch = require('node-fetch');
 const config = require('config');
+
 // /api/profile => Will get all profile
 // /api/profile/me => will get our profile
 
@@ -407,5 +408,4 @@ router.get('/github/:username', (req, res) => {
       res.status(500).send('Server Error');
     });
 });
-
 module.exports = router;
