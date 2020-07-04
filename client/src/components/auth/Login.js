@@ -42,7 +42,7 @@ const Login = ({ login, isAuthenticated }) => {
               name="email"
               value={email}
               onChange={e => onChange(e)}
-              retuired
+              required
             />
           </div>
           <div className="form-group">
