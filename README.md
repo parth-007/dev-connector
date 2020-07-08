@@ -3,7 +3,7 @@
 This will allow the developers to connect with each other.
 Developers can create the accounts.
 
-Developers can additionaly do following things.
+**Developers can additionaly do the following things.**
 
 1. Create and edit Profile
 2. Add skills and social profiles
